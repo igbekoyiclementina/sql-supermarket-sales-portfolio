@@ -152,7 +152,7 @@ License
 
 Project inspired by real-world business analytics scenarios. This project uses a public dataset from Kaggle. Please refer to the [original dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales) for licensing information.
 
-References
+Reference
 
 Fares Ashraf. Supermarket Sales. Kaggle, www.kaggle.com/datasets/faresashraf1001/supermarket-sales
 Accessed January 2026.
