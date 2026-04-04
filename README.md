@@ -1,11 +1,12 @@
 # sql-supermarket-sales-portfolio
-SQL Project:
+## SQL Project:
 
-Project Overview
+## Project Overview
 
 This is a beginner-level SQL portfolio project demonstrating practical SQL skills using real-world supermarket sales data. The project showcases my ability to query, filter, aggregate, and analyze transactional data using MySQL Workbench.
 
-Objective: Demonstrate foundational SQL competencies through hands-on analysis of 1,000 sales transactions, delivering actionable business insights.
+## Objective: 
+Demonstrate foundational SQL competencies through hands-on analysis of 1,000 sales transactions, delivering actionable business insights.
 
 Dataset Information:
 Dataset: Supermarket Sales Dataset  
@@ -15,7 +16,7 @@ Records: 1,000 transactions
 Format: CSV 
 Number of columns: 17 
 
- Business Context
+## Business Context
 The dataset represents sales from a supermarket chain operating across three cities in Myanmar:
 - Yangon
 - Naypyitaw
@@ -23,7 +24,7 @@ The dataset represents sales from a supermarket chain operating across three cit
 
 It captures comprehensive transaction details including customer demographics, product categories, payment methods, and financial performance metrics.
 
-Data Dictionary
+## Data Dictionary
 | Column Name | Data Type | Description |
 |-------------|-----------|-------------|
 | `Invoice ID` | VARCHAR | Unique transaction identifier |
@@ -44,14 +45,14 @@ Data Dictionary
 | `Gross Income` | DECIMAL | Profit from transaction |
 | `Rating` | DECIMAL | Customer satisfaction rating (1-10) |
 
-Tools & Technologies
+## Tools & Technologies
 - Database: MySQL Server
 - IDE: MySQL Workbench
 - Data Preparation: Microsoft Excel
 - Version Control: GitHub
 - Kaggle
 
-Methodology & Analysis Approach
+## Methodology & Analysis Approach
 
 Data Preparation & Schema Design
 - Imported CSV data into MySQL database
@@ -94,7 +95,7 @@ Ranking & Prioritization:
 - Ranked transactions by satisfaction scores
 - Highlighted top-performing transactions for case studies
 
- Key Business Insights:
+## Key Business Insights:
  Revenue Drivers
 Top Product Categories: Food and Beverages and Fashion Accessories consistently generated the highest gross income, indicating these are the supermarket's primary revenue drivers.
  Customer Satisfaction
@@ -105,7 +106,7 @@ Digital Adoption: E-wallet usage is nearly equal to Cash and Credit Card payment
 Stable Leader: Naypyitaw maintained the most consistent average ratings across all product categories, while all three cities showed comparable sales volumes.
 
 
-SQL Skills Demonstrated in this project
+## SQL Skills Demonstrated in this project
 This project showcases proficiency in:
 
 Data Definition Language (DDL): Creating and modifying database schemas  
@@ -118,7 +119,7 @@ Multi-condition Logic: Complex WHERE clauses with AND/OR
 Data Type Optimization: Proper use of DECIMAL, INT, DATE, TIME types  
 SQL Order of Execution: Understanding query processing sequence
 
-Project Outcomes:
+## Project Outcomes:
 
 Technical Achievement: Successfully migrated flat CSV data into a structured relational database, demonstrating database design and normalization principles.
 Analytical Value: Delivered actionable insights on customer behavior, product performance, and regional trends that could inform inventory management, marketing strategies, and customer loyalty programs.
@@ -143,16 +144,16 @@ supermarket-sales-sql/
 └── README.md
 
 
-Contact
+## Contact
 
 LinkedIn: linkedin.com/in/idowuigbekoyi  
-Email: igbekoyiclementina@yahoo.com  
+Email: clementina.igbekoyi@yahoo.com 
 
-License
+## License
 
 Project inspired by real-world business analytics scenarios. This project uses a public dataset from Kaggle. Please refer to the [original dataset](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales) for licensing information.
 
-Reference
+## Reference
 
 Fares Ashraf. Supermarket Sales. Kaggle, www.kaggle.com/datasets/faresashraf1001/supermarket-sales
 Accessed January 2026.
